@@ -1,3 +1,5 @@
+# Moved to https://github.com/Liquid-JS/nxt-components/tree/master/packages/json-view
+
 # nxt-json-view
 
 A JSON View component for Angular 13+ (an angular based JSON display component)
